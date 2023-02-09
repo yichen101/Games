@@ -1,4 +1,4 @@
-# Snake
+# Snakes
 
 Python program that runs a game of snakes.
 
