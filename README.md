@@ -6,4 +6,5 @@ Python program that runs a game of snakes.
 
 # Libraries to import
 `pip install pygame`
+
 `pip install random`
